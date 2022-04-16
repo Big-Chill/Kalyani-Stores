@@ -1,0 +1,247 @@
+{
+  "items": [
+    {
+      "base_price": "₹30999",
+      "desc": "16.40 centimeters (6.5-inch) 6.5” FHD+ Super AMOLED- infinity-O display, FHD+ resolution with 1080 x 2400 pixels resolution, 407 PPI with 16M colours",
+      "id": 168,
+      "img": "samsunga52.jpg",
+      "name": "Samsung Galaxy A52s 5G (Black, 6GB RAM, 128GB Storage)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹89990",
+      "desc": "5.6 (39.62 cms) FHD 144Hz, Intel Core i7-11600H 11th Gen, 4GB RTX 3050 Graphics, Gaming Laptop (16GB/512GB SSD/Windows 10/Office 2019/Gray/2.3 Kg), FX566HCB-HN299TS",
+      "id": 369,
+      "img": "asus.jpg",
+      "name": "ASUS TUF Gaming F15 (2021)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹6499",
+      "desc": "Over Ear Active Noise Cancellation Headphones with Mic, up to 50 Hours Playtime, JBL Pure Bass, Google Fast Pair, Dual Pairing, AUX & Voice Assistant Support for Mobile Phones (Black)",
+      "id": 413,
+      "img": "jbl.jpg",
+      "name": "JBL Tune 760NC",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹54999",
+      "desc": "16.28cm(6.4-inch) Dynamic AMOLED 2X Display with120Hz Refresh rate for Smooth scrolling. Intelligent Eye Comfort Shield, New 19.5:9 Screen Ratio with thinner bezel, 1080x2340 (FHD+) Resolution",
+      "id": 131,
+      "img": "samsung_galaxy.jpg",
+      "name": "Samsung Galaxy S21 FE 5G (White, 8GB, 128GB Storage)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹9499",
+      "desc": "16.58 centimeters (6.53-inch) HD+ multi-touch capacitive touchscreen with 1600 x 720 pixels resolution, 268 ppi pixel density, 20:9 aspect ratio",
+      "id": 219,
+      "img": "tecno.jpg",
+      "name": "Redmi 9 (Sky Blue, 4GB RAM, 64GB Storage) | 2.3GHz Mediatek Helio G35 Octa core Processor",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹25990",
+      "desc": "Mediatek Dimensity 800U 5G Supports Dual 5G or 4G Sim. Powerful 2.4 ghz Octa-core Processor, Support LPDDR4x memory and latest UFS 2.1 storage",
+      "id": 163,
+      "img": "oppo_f19.jpg",
+      "name": "OPPO F19 Pro + 5G (Space Silver, 8GB RAM, 128GB Storage)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹9899",
+      "desc": "50MP High Resolution Camera for Extra Clarity with F1.6 Large Aperture | 8MP Front Cam with Dual Front Flash",
+      "id": 123,
+      "img": "techno_8t.jpg",
+      "name": "Tecno Spark 8T (Atlantic Blue,7GB Expandable RAM, 64GB Storage)| 50MP AI Camera | 6.6 FHD+Display | 5000mAh",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹1799",
+      "desc": "[Breakthrough Sensors with TAGG Sense+ Technology] - For accurate data tracking while working out or doing any other activity",
+      "id": 412,
+      "img": "tag_verve.jpg",
+      "name": "TAGG Verve NEO Smartwatch || 1.69'' Large Display with 10 Days Battery Life",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹2999",
+      "desc": "Multiple Watch Faces, Stress Monitor, Heart & SpO2 Monitoring, 14 Sports Modes, Sleep Monitor & 5 ATM Water Resistance(Pitch Black)",
+      "id": 199,
+      "img": "boat_spend.jpg",
+      "name": "boAt Xtend Smartwatch with Alexa Built-in, 1.69” HD Display",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹4499",
+      "desc": "SpO2 & 1.7” Metal Body with Blood Oxygen Monitoring, Continuous Heart Rate, Full Touch & Multiple Watch Faces (Black), M (BSW005)",
+      "id": 658,
+      "img": "fire_bolt.jpg",
+      "name": "Fire-Boltt Ring Bluetooth Calling Smartwatch",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹3499",
+      "desc": "3.63 cm(1.43) HD Color Display, 60+ Sports Modes, Breathing Training, 50+ Watch Faces (Black)",
+      "id": 419,
+      "img": "amazon.jpg",
+      "name": "Amazfit Bip U Smart Watch, SpO2 & Stress Monitor",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹73300",
+      "desc": "Processor: Intel i5-11300H (3.10 GHz up to 4.40 GHz) Software: Win 11 + Office H&S 2021",
+      "id": 498,
+      "img": "dell.jpg",
+      "name": "Dell 15 (2021) i5-11300H, 16GB, 512Gb SSD, Win 11 + MS Office'21, NVIDIA MX450 2GB Graphics",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹35990",
+      "desc": "Processor: 10th Gen Intel Core i3-10110U | Speed: 2.1 GHz (Base) - 4.1 GHz (Max) | 2 Cores | 4 Threads | 4MB Cache OS: Pre-Loaded Windows 11 Home with Lifetime Validity",
+      "id": 164,
+      "img": "lenovo.jpg",
+      "name": "Lenovo IdeaPad Slim 3 10th Gen Intel Core i3 15.6 HD Thin and Light Laptop",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹109990",
+      "desc": "(16GB RAM/ 1TB SSD/ 6GB RTX 3060 Graphics/ Flicker Free, 165Hz 3 Ms Display/ Alexa Built-in/ Win 11/ MS Office/ 2.48 Kg) - 16-e0362ax",
+      "id": 796,
+      "img": "hp.jpg",
+      "name": "HP Victus AMD Ryzen 7-5800H 16.1inch(40.9cm) QHD Gaming Laptop",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹28990",
+      "desc": "(4 GB/256 GB SSD/Windows 11 Home/AMD Radeon Graphics /1.9Kg/Silver) A315-23",
+      "id": 423,
+      "img": "acer.jpg",
+      "name": "Acer Aspire 3 AMD Athlon Silver 3050U Dual-core Processor",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹35999",
+      "desc": "Resolution: 4K Ultra HD (3840 x 2160) | Refresh Rate: 60 hertz | 178° wide viewing angle Connectivity: 3 HDMI 2.0 ports to connect set top box, Blu Ray players, gaming console | 1 USB 3.0 and 1 USB 2.0 ports to connect hard drives and other USB devices",
+      "id": 598,
+      "img": "amazon_basics.jpg",
+      "name": "AmazonBasics 139cm (55 inch) 4K Ultra HD Smart LED Fire TV AB55U20PS (Black)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹36990",
+      "desc": "Resolution : Crystal 4K UHD (3840 x 2160) resolution | Refresh Rate : 60 Hertz Connectivity: 3 HDMI ports to connect set top box, Blu-ray speakers or a gaming console | 1 USB ports to connect hard drives or other USB devices",
+      "id": 698,
+      "img": "samsung.jpg",
+      "name": "Samsung 108 cm (43 inches) Crystal 4K Series Ultra HD Smart LED TV UA43AUE60AKLXL (Black) (2021 Model)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹16999",
+      "desc": "Resolution: HD Ready Android TV (1366x768) | Refresh Rate: 60 hertz Connectivity: 3 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices",
+      "id": 331,
+      "img": "mitv.jpg",
+      "name": "Mi 80 cm (32 inches) HD Ready Android Smart LED TV 4A PRO | L32M5-AL (Black)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹15999",
+      "desc": "Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices",
+      "id": 899,
+      "img": "one.jpg",
+      "name": "OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black) (2020 Model)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹999",
+      "desc": "Battery: Rockerz 370 offers a playback time of up to 12 hours.. Frequency Response 20Hz-20KHz,Sensitivity (dB) 79dB±3DB,Impedance 32Ω. Driver Type:Moving Coil Driver",
+      "id": 6,
+      "img": "boat_370.jpg",
+      "name": "boAt Rockerz 370 Bluetooth Wireless On Ear Headphone with Mic (Buoyant Black)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹2990",
+      "desc": "Battery Life : With up to 35 hours of battery life, you’ll have enough power for even long trips away",
+      "id": 100,
+      "img": "sony.jpg",
+      "name": "Sony WH-CH510, On-Ear Headphones, up-to 35Hrs Playtime, Headphone with Mic, Lightweight, Type-C, Play/Pause Control, 30mm Driver, BT Version 5.0 & Voice Assistant Support for Mobiles - Blue",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹599",
+      "desc": "Immersive Audio with Deep Bass; Bluetooth 5.0; 8 Hours Music & Talk-time; 1.5 Hours Charging Time; 10m Wireless Range; Strong Connectivity; Passive Noise Cancelation; Lightweight earphones",
+      "id": 397,
+      "img": "ptron.jpg",
+      "name": "pTron Tangent Lite Bluetooth 5.0 Wireless Headphones with Hi-Fi Stereo Sound, 8Hrs Playtime, Lightweight Ergonomic Neckband, Sweat-Resistant Magnetic Earbuds, Voice Assistant & Mic - (Black)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹1499",
+      "desc": "The mighty 500mAh battery capacity offers a superior playback time of up to 20 Hours",
+      "id": 665,
+      "img": "boat_550.jpg",
+      "name": "boAt Rockerz 550 Wireless Bluetooth Over The Ear Headphones with Mic (Army Green)",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹3699",
+      "desc": "Jumbo Battery Backup: Never run out of juice with 21 hours of playtime (6 hours on earbuds and 15 hours on charging case). Get upto 1Hr of playback with 15mins of charging",
+      "id": "849",
+      "img": "jblc.jpg",
+      "name": "JBL C 115 Bluetooth Truly Wireless in Ear Earbuds with mic Red",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹239",
+      "desc": "Long sleeve, semi cut away collar Chiselled cuff and v shape pocket",
+      "id": "473",
+      "img": "amz1.jpg",
+      "name": "Amazon Brand - House & Shields Men's Regular Casual Shirt",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹734",
+      "desc": "Homegrown Indian Brand - One-stop-shop for Official Merch of all your favorite superheroes, films, TV shows and cartoons.Buy Official DC Comics Merchandise Only At The Soule Store",
+      "id": "636",
+      "img": "batshirt.jpg",
+      "name": "The Souled Store Men Official Batman: 3D Logo Black Printed T-Shirts",
+      "new_price": 0,
+      "qty": 0
+    },
+    {
+      "base_price": "₹499",
+      "desc": "100% Cotton bio-wash fabric Round Neck Tshirt for Casual, Evening Wear",
+      "id": "879",
+      "img": "spider.jpg",
+      "name": "bluehaaat Men's Slim Fit Glow in Dark Goku Anime Graphic Printed Sleeveless Tank Top Vest",
+      "new_price": 0,
+      "qty": 0
+    }
+  ]
+}
