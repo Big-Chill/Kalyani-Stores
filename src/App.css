@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.captcha{
+  margin-left:42vw;
+  margin-top:2%;
+}
+
+.main-body{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+}
+
+
+
+.qty-field{
+  text-align:center;
+  width:80px;
+  height:50px;
+  font-size:20px;
+}
+
+.pymnt-btn{
+  margin-left:81%;
+  margin-top:-3%;
+}
+
+.total-price{
+  margin-left:67%;
+}
+
+.odr-plcd{
+  margin-left:50px;
+}
+
+.err_img{
+  margin-left:120px;
+  height:80px;
+}
