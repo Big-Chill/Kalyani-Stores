@@ -74,3 +74,44 @@
   margin-left:120px;
   height:80px;
 }
+
+html,body{
+  margin:0px;
+  height:100%;
+}
+
+.login-div{
+  background:#f76b8a;
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
+}
+
+.head-div{
+  width:142vw;
+  height:7vw;
+  display: flex;
+  flex-direction:row;
+}
+
+.search-div{
+  margin-top:1%;
+  display: flex;
+  flex-direction:row;
+  align-items:center;
+  justify-content: center;
+}
+
+.opt-card2{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+  /* height: 30%; */
+  color: black;
+  border-radius: 10px;
+  margin: 4vw;
+}
