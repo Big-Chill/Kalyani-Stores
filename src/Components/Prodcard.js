@@ -110,6 +110,8 @@ export default function Prodcard({item}) {
     function isPresent()
     {
       let olddata=JSON.parse(localStorage.getItem("cart") || "[]");
+      if(olddata.length==0)
+      return false;
       let tempdata=[...olddata];
       for(let i=0;i<tempdata.length;i++)
       {
@@ -136,7 +138,7 @@ export default function Prodcard({item}) {
           }
         }
       }
-    })
+    },[])
     
     
 
